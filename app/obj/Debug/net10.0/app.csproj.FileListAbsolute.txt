@@ -1,0 +1,15 @@
+/workspaces/TP-dotNET-ArchiApp/app/bin/Debug/net10.0/app
+/workspaces/TP-dotNET-ArchiApp/app/bin/Debug/net10.0/app.deps.json
+/workspaces/TP-dotNET-ArchiApp/app/bin/Debug/net10.0/app.runtimeconfig.json
+/workspaces/TP-dotNET-ArchiApp/app/bin/Debug/net10.0/app.dll
+/workspaces/TP-dotNET-ArchiApp/app/bin/Debug/net10.0/app.pdb
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.AssemblyInfoInputs.cache
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.AssemblyInfo.cs
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.csproj.CoreCompileInputs.cache
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.sourcelink.json
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.dll
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/refint/app.dll
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.pdb
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/app.genruntimeconfig.cache
+/workspaces/TP-dotNET-ArchiApp/app/obj/Debug/net10.0/ref/app.dll
