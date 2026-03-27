@@ -1,4 +1,7 @@
-﻿namespace app;
+﻿using Newtonsoft.Json;
+
+namespace app;
+
 
 class Program
 {
@@ -10,9 +13,11 @@ class Program
 
         string message = p.Hello(true);
         Console.WriteLine(message);
+
+        string json = JsonConvert.SerializeObject(p, Formatting.Indented);
+        Console.WriteLine(json);
     }
 };
-
 
 class Person
 {
